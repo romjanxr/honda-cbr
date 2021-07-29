@@ -1,0 +1,19 @@
+.header-bg {
+    background-color: #264653;
+}
+.para {
+    font-size: 14px;
+    color: #E0E0E0;
+}
+.btn-bg {
+    background-color: #E76F51;
+    color: white;
+}
+.feature-description {
+    color: #E76F51;
+    font-size: 14px;
+    font-weight: 600;
+}
+.img-grayscale {
+    filter: grayscale(1);
+}
