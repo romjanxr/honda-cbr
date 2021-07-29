@@ -17,3 +17,27 @@
 .img-grayscale {
     filter: grayscale(1);
 }
+.orange-text {
+    color: #E76F51;
+}
+.card img {
+    width: 149px;
+    height: 149px;
+    border-radius: 50%;
+}
+.client-name {
+    color: #23A6F0;
+    font-size: 14px;
+    font-weight: 600;
+}
+.client-occupation {
+    font-size: 14px;
+    font-weight: 600;
+}
+.faq-header {
+    color: #383838;
+    font-weight: 500;
+}
+.rule {
+    font-weight: 500;
+}
